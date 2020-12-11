@@ -5,7 +5,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Working on responsiveness.
 
-User: marco, Pwd: polo
 
 ## Development server
 
